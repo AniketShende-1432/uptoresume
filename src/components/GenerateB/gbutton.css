@@ -1,0 +1,21 @@
+.button{
+    height: 40px;
+    width: 200px;
+    /* border: 2px solid white; */
+    background-color: #1F8268;
+    border: 2px solid transparent;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-top: 22px;
+}
+button{
+    font-size: 15px;
+    position: relative;
+    top:10px;
+    left: 25px;
+    background-color: #1F8268;
+    border: 2px solid transparent;
+    color: white; 
+}

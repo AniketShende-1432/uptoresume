@@ -1,0 +1,73 @@
+.bigdiv{
+    height: 700px;
+    width: 100%;
+    background-color: rgb(9, 9, 65);
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.box{
+    height: 600px;
+    width: 40%;
+    /* border: 2px solid white; */
+    margin-left: 70px;
+}
+.box1{
+    height: 450px;
+    width: 45%;
+    /* border: 2px solid white; */
+    position: relative;
+    bottom: 25px;
+    /* background-image: url("istockphoto-1137470880-612x612.jpg"); */
+    /* background-size: cover; */
+    background-image: url("https://recruitingdaily.com/wp-content/uploads/2022/02/screen-shot-2022-02-24-at-112804-am-1024x914.png");
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+}
+.drive{
+    height: 220px;
+    width: 550px;
+    /* border: 2px solid white; */
+}
+.drive h1{
+    color: white;
+    font-size: 50px;
+    margin-top: 20px;
+    
+}
+.confused{
+    height: 50px;
+    width: 400px;
+    /* border: 2px solid white; */
+    margin-top: 2px;
+}
+.confused p{
+    color: white;
+    font-size: 15px;
+    /* margin-top: 5px; */
+}
+.trusted{
+    height: 20px;
+    width: 350px;
+    /* border: 2px solid white; */
+    margin-top: 30px;
+}
+.trusted h4{
+    color: white;
+    font-size: 15px;
+    
+}
+.img{
+    height: 100px;
+    width: 500px;
+    /* border: 2px solid white; */
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.img img{
+    height: 25px;
+}

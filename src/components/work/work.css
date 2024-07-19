@@ -1,0 +1,97 @@
+.work{
+    height: 70px;
+    width: 100%;
+    /* border: 2px solid black; */
+    margin-top: 80px;
+}
+.work h1{
+    font-size: 40px;
+    padding-left: 100px;
+}
+.resume{
+    height: 900px;
+    width: 100%;
+    /* border: 2px solid black; */
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    /* align-items: center; */
+}
+.box2{
+    height: 370px;
+    width: 30%;
+    border: 2px solid transparent;
+    /* background-image: url("img1"); */
+background-image: url("https://enhancv.com/static/0e2249879df2a986935b8353a525c858/61be4/one-page-resume-templates.webp");
+background-size: cover;
+    /* background-size: cover; */
+    /* margin-left: 50px; */
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.box2 h1{
+    position: relative;
+    top: 400px;
+    font-size: 25px;
+}
+.box2 p{
+    position: relative;
+    top: 400px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.box3{
+    height: 370px;
+    width: 30%;
+    border: 2px solid transparent;
+    /* background-image: url("img3"); */
+    background-image: url("https://th.bing.com/th/id/OIP.GD8Fefig7nFkl-NNcziOBgHaGf?w=520&h=456&rs=1&pid=ImgDetMain");
+    background-size: cover;
+    /* background-size: cover; */
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.box3 h1{
+    position: relative;
+    top: 400px;
+    font-size: 20px;
+}
+.box3 p{
+    position: relative;
+    top: 400px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.box4{
+    height: 370px;
+    width: 30%;
+    border: 2px solid transparent;
+    /* background-image: url("img6"); */
+    background-image: url("https://nationalgriefawarenessday.com/wp-content/uploads/2018/01/college-student-resume-template-microsoft-word-sample-college-student-resume-resume-jpg-238x300.jpg");
+    /* background-size: cover; */
+    background-size:contain;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.box4 h1{
+    position: relative;
+    top: 400px;
+    font-size: 20px;
+}
+.box4 p{
+    position: relative;
+    top: 400px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.button1{
+    position: absolute;
+    left: 500px;
+    top:1400px;
+}
